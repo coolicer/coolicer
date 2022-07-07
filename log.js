@@ -1,2 +1,2 @@
-console.log('log');
+$notify("Title", "Subtitle", 'hello'); // Success!
 $done();
